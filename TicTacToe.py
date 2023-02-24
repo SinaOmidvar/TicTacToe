@@ -1,16 +1,3 @@
-"""
-Student info: Sina Omidvar (992023003)
-Course info: Artificial Intelligence at Kharazmi University
-Instructor: M.M. Pedram
-TA: Mahsa Arabi & Alireza Habibi
-Title: Project 3
-"""
-# Tic_Tac_Toe game
-# Using Minimax algorithm and alpha beta pruning
-# Player vs AI and AI vs AI
-# Heuristic function is implemented
-# Two difficulties, beatable and unbeatable
-
 
 from random import choice
 from math import inf
